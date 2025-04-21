@@ -1,0 +1,10 @@
+# Virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.idea/
+
+# Data folder (якщо будеш створювати)
+data/
