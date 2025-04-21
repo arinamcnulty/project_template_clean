@@ -1,5 +1,3 @@
-# main.py
-
 from app.io.input import get_input_text, read_file_builtin, read_file_pandas
 from app.io.output import print_to_console, write_to_file
 
