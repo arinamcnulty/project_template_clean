@@ -11,3 +11,7 @@ def read_file_pandas():
     """Зчитує CSV-файл 'data/input.csv' як DataFrame за допомогою pandas."""
     import pandas as pd
     return pd.read_csv("data/input.csv")
+def get_input():
+    """Отримати текст з консолі."""
+    return input("Введіть текст: ")
+

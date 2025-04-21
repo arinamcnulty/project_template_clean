@@ -1,3 +1,4 @@
+import pytest
 from app.io.input import get_input
 
 def test_get_input(monkeypatch):
